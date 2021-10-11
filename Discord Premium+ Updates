@@ -8,6 +8,7 @@
 // @match        https://discord.com/channel
 // @match        https://discord.com/app
 // @match        https://discord.com/channels/@me
+// @updateURL    
 // @grant        none
 // @iconURL      https://cdn.shopify.com/s/files/1/0580/2885/products/Sundown-Discord-Profile-Picture_large.gif?v=1582343086
 // @run-at       document-start
